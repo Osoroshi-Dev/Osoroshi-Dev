@@ -1,10 +1,16 @@
--  😆 Hello! I'm Brazilian and my name is Guilherme but as my name is hard to pronounce in english you can aways call-me Wilhelm as it looks a lot more cooler.
+- 😆 Hello! I'm Brazilian and my name is Guilherme but as my name is hard to pronounce in english you can aways call-me Wilhelm as it looks a lot more cooler.
 - 🏫 I'm a student of Sys. Development at Unicep and also Senai.
+- 💖 Lover of games, music and learning
+
+---
 - 🔭 Jobs
-  - 06/2025 - Tecumseh (apprentice)
+  - 06/2025 | Now *at* **_Tecumseh Brazil_** (Apprentice)
 
+---
 
-<div class="skill-container">
+<h3>Skills:</h3>
+
+<div>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" title="HTML5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" title="CSS3"/>
@@ -27,3 +33,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="25" title="NumPy"/>
   </div>
 </div>
+
+---
