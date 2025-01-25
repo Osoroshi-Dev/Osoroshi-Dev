@@ -1,5 +1,5 @@
-- // 😆 Hello! I'm Brazilian and my name is Guilherme as my name is hard to pronounce in english you can call-me Wilhelm as it looks cooler.
-- // 🏫 I'm a student of Sys. Development at Unicep and also Senai.
+- 😆 Hello! I'm Brazilian and my name is Guilherme as my name is hard to pronounce in english you can call-me Wilhelm as it looks cooler.
+- 🏫 I'm a student of Sys. Development at Unicep and also Senai.
 - 💖 = ["games", "music", "learning"]
 - 💬 = ["Portuguese (Native)", "English (Advanced)", "日本語  (Newbie)"]
 
