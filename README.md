@@ -1,4 +1,4 @@
-- 😆 Hello! I'm Brazilian and my name is Guilherme but as my name is hard to pronounce in english you can aways call-me Wilhelm as it looks a lot more cooler.
+- 😆 Hello! I'm Brazilian and my name is Guilherme as my name is hard to pronounce in english you can call-me Wilhelm as it looks cooler.
 - 🏫 I'm a student of Sys. Development at Unicep and also Senai.
 - 💖 Lover of games, music and learning
 
