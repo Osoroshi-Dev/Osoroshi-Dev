@@ -1,11 +1,11 @@
-- 😆 Hello! I'm Brazilian and my name is Guilherme as my name is hard to pronounce in english you can call-me Wilhelm as it looks cooler.
-- 🏫 I'm a student of Sys. Development at Unicep and also Senai.
-- 💖 Lover of games, music and learning
+- // 😆 Hello! I'm Brazilian and my name is Guilherme as my name is hard to pronounce in english you can call-me Wilhelm as it looks cooler.
+- // 🏫 I'm a student of Sys. Development at Unicep and also Senai.
+- 💖 = ["games", "music", "learning"]
+- 💬 = ["Portuguese (Native)", "English (Advanced)", "日本語  (Newbie)"]
 
 ---
-- 🔭 Jobs
-  - 06/2025 | Now *at* **_Tecumseh Brazil_** (Apprentice)
-
+- 🔭 Worked(ing) At:
+  - 06/2025 | Now *at* **_Tecumseh Brazil_** *as* **_Apprentice_**
 ---
 
 <h3>Skills:</h3>
